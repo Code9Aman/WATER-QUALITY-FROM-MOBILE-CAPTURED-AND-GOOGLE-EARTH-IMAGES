@@ -1,6 +1,6 @@
 # WATER-QUALITY-FROM-MOBILE-CAPTURED-AND-GOOGLE-EARTH-IMAGES
 
-Here's a suggested GitHub description for a project focused on water quality assessment using mobile-captured images and Google Earth data:
+
 
 ---
 
@@ -22,4 +22,4 @@ This project is licensed under [MIT License](link-to-license).
 
 ---
 
-Feel free to customize this description based on the specific details and goals of your project.
+
